@@ -1,4 +1,4 @@
-## 📒 Contact Book Manager
+## 📒 Todo List
 
 A simple and efficient To-Do List application built using **Spring Boot** that exposes a **RESTful API** for managing tasks. This project demonstrates CRUD operations, REST principles, and clean architecture using Java and Spring Boot.
 
@@ -33,6 +33,7 @@ A simple and efficient To-Do List application built using **Spring Boot** that e
 
 Name: Vaishnavi Kenchi  
 Email: kenchivaishnavi2605@gmail.com
+
 
 
 
